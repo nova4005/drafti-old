@@ -1,19 +1,13 @@
-# drafty
+<img src="https://garrettseymour.com/images/drafty.png" width="100px" height="100px" />
 
-Having a clear, thorough, and helpful readme can make a huge differce in your components usage. Keep in mind that this is what is display on npm for how to use your component. You don't need a readme to publish. Just keep in mind that if you're making the readme a separate task,
-it will require its own publish event. (which isn't hard).
+# Getting Started with Drafty
 
-# API
+I created this repo as a quick way for me to get up and running with a WYSIWYG editor for my ReactJS apps. I have been building this for my needs and the tools and features that I use the most. There are not many settings for the React component and right now you just import Drafty and add the
 
-#### Import
+``<Drafty />``
 
-It can be helpful to leave a copy/paste example of an import. Like:
-```import { SuperCoolComponent } from 'your-cool-component';```
+tag to your app to pull in the editor. I am adding new features so if you do find this and want to use it that's great.
 
-#### Props
+## Future Ideas
 
-Make sure to list all the props your component can take and what the defaults are!
-
-# Examples
-
-Document some usage examples. When I did my first, I showed how I was using it and what my use case was.
+- Alignment Buttons
